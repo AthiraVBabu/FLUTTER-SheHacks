@@ -1,4 +1,4 @@
-# furniture
+# furnitureapp
 
 A new Flutter project.
 

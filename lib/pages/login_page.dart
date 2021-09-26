@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 
+
 class LoginPage extends StatefulWidget {
   const LoginPage({ Key? key }) : super(key: key);
 
@@ -16,7 +17,7 @@ class _LoginPageState extends State<LoginPage> {
     return Material(
       color: Colors.white,
       child: Column(
-        children: [Image.asset("assets/images/login_image.png" ,
+        children: [Image.asset("assets/welcome.png" ,
         fit:BoxFit.cover,
         ),
         SizedBox(
